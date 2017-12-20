@@ -13,6 +13,38 @@ O VirtualBox é um sistema que possibilita criar e gerenciar maquinas virtuais n
 
 **Passo a Passo**
 
+Baixe o programa no site da Oracle.
+
+.. image:: _static/virtualbox1.png
+
+Clique no ícone do Virtualox na sua pasta de downloads.
+
+.. image:: _static/vbox2.png
+
+Abrirá uma aba que indica o início do seu processo de instalação.
+Clique em NEXT.
+
+.. image:: _static/vbox3.png
+
+A próxima aba indica o local em que o programa será salvo em seu computador. Mantenha as informações selecionadas ou mude a seu gosto e clique em NEXT.
+
+.. image:: _static/vbox4.png
+
+A aba abaixo indica se você quer um atalho para o seu Desktop ( primeiro quadrado selecionado) e para sua barra de ferramentas ( segundo quadrado selecionado). Faça suas escolhas e clique em NEXT.
+
+.. image:: _static/vbox5.png
+
+Essa é uma aba de atenção. Indica que para prosseguir com a instalção você será disconectado da internet. Salve o que for preciso e clique em NEXT.
+
+.. image:: _static/vbox6.png
+
+Finalmente, estamos prontos para iniciar o real processo de instalção. Clique em NEXT.
+
+.. image:: _static/vbox7.png
+
+Sua intalção está completa. Clique em FINISH.
+
+.. image:: _static/vbox8.png
 
 INSTALAR UBUNTU
 ---------------
