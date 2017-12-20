@@ -46,56 +46,97 @@ Sua intalção está completa. Clique em FINISH.
 
 .. image:: _static/vbox8.png
 
-INSTALAR UBUNTU
----------------
+INSTALAR UBUNTU NO VIRTUALBOX
+-----------------------------
 
-Oracle VM VirtualBox Gerenciador
+Abrir o Oracle VM VirtualBox Gerenciador e clicar em Creat Virtual Machine.
 
-Novo
+
+.. image:: _static/ubuntu1.png
+
+Criar:
+
+
 Nome:IntroComp
+
+
 Tipo:Linux
+
+
 Versão:Ubuntu (64-bit)
 
-Tamanho da Memória:
-2048
+.. image:: _static/ubuntu2.png
 
-cirar um  novo
-vdi
-dinamicamente alocado
+Selecioinar tamanho da memória: 2048.
+
+.. image:: _static/ubuntu3.png
+
+Criar um novo.
+
+.. image:: _static/ubuntu4.png
+
+Selecionar: VDI.
+
+.. image:: _static/ubuntu5.png
+
+Selecionar: Dinamicamente Alocado.
+
+.. image:: _static/ubuntu6.png
 
 Localização e tamanho do arquivo
 15,12
 
-Armazenamento
-Vazio
-Ide secundário Master
-Live CD/DVD
+.. image:: _static/ubuntu7.png
 
-Adicionar cd
-ubuntu
+O Armazenamento estará vazio clique no Ide secundário Master.
 
-Iniciar seta verde
+.. image:: _static/ubuntu9.png
 
-Esperar
-Remover janela pop up
-instalar ubuntu
-instal updates
-Reinstal ubuntu (continue)
+Escolha o arquivo do Ubuntu 17.10 que você baixou do site para seu computador.
 
-Rio de Janeiro
+.. image:: _static/ubuntu10.png
 
-Who are you
-Your name:
+Observe se na imagem de CD aparece o nome do Ubuntu. Se sim, clique seta verde.
 
-Your computer’s name:
+.. image:: _static/ubuntu11.png
 
-Pick a username:
+Remova a janela pop up, clicando no OK.
 
-Choose a password:
+.. image:: _static/ubuntu13.png
 
-Confirm your password:
+Espere alguns segundos até abrir a janela de instalção do Ububtu. Clique em instalar ubuntu.
 
-require password
+.. image:: _static/ubuntuA.png
+
+Selecione Instal Updates e clique em CONTINUE
+
+.. image:: _static/ubuntuB.png
+
+Selecione a primeira opção que é apagar o disco e instalar o Ubuntu. Clique em CONTINUE.
+
+.. image:: _static/ubuntuC.png
+
+Escolha sua Cidade.
+
+.. image:: _static/ubuntuD.png
+
+Escolha sua língua falada e teclado.
+
+.. image:: _static/ubuntuE.png
+
+Na aba "Who are you" crie respectivamente: seu nome , o nome do seu computador, seu login, sua senha, confirme sua senah e selecione requerer senha.
+
+.. image:: _static/ubuntuF.png
+
+Espere seu sistema instalar (pode ser que demore um longo tempo).
+
+.. image:: _static/ubuntuG.png
+
+Dê OK na aba e seu Ubuntu estará instalado no seu VirtualBox.
+
+.. image:: _static/ubuntuH.png
+
+
 
 INSTALAR UMAKER
 ---------------
